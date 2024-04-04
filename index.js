@@ -1,5 +1,5 @@
 import {
-    mkfile, mkdir, isDirectory, isFile, map,
+    mkfile, mkdir
   } from '@hexlet/immutable-fs-trees';
 
 import * as util from 'util';
